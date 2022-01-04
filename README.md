@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Tintol618
 - 👀 I’m interested in car programming.
 - 🌱 I’m currently learning Computer Science and engineering.
--
